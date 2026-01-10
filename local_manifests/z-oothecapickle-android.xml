@@ -8,7 +8,6 @@
   <remove-project path="vendor/qcom/opensource/commonsys/fm" name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" />
   <remove-project path="frameworks/av" name="LineageOS/android_frameworks_av" />
   <remove-project path="packages/apps/CellBroadcastReceiver" name="LineageOS/android_packages_apps_CellBroadcastReceiver" />
-  <remove-project path="packages/apps/Dialer" name="LineageOS/android_packages_apps_Dialer" />
   <remove-project path="system/update_engine" name="LineageOS/android_system_update_engine" />
   <remove-project path="hardware/qcom-caf/sm8350/audio" name="LineageOS/android_hardware_qcom_audio" />
   <remove-project path="system/core" name="LineageOS/android_system_core" />
@@ -21,7 +20,6 @@
   <project path="vendor/qcom/opensource/commonsys/fm" remote="github" name="OothecaPickle-android/android_vendor_qcom_opensource_fm-commonsys" groups="oothecapickle-android" />
   <project path="frameworks/av" remote="github" name="OothecaPickle-android/android_frameworks_av" groups="oothecapickle-android" />
   <project path="packages/apps/CellBroadcastReceiver" remote="github" name="OothecaPickle-android/android_packages_apps_CellBroadcastReceiver" groups="oothecapickle-android" />
-  <project path="packages/apps/Dialer" remote="github" name="OothecaPickle-android/android_packages_apps_Dialer" groups="oothecapickle-android" />
   <project path="system/update_engine" remote="github" name="OothecaPickle-android/android_system_update_engine" groups="oothecapickle-android" />
   <project path="hardware/qcom-caf/sm8350/audio" remote="github" name="OothecaPickle-android/android_hardware_qcom_audio" groups="oothecapickle-android" revision="lineage-23.0-caf-sm8350" />
   <project path="system/core" name="OothecaPickle-android/android_system_core" groups="oothecapickle-android" />
